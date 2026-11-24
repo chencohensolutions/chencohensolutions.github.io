@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.chencohen.ptt",
+      "sha256_cert_fingerprints": [
+        "DB:D3:D9:12:D2:6E:80:06:C3:71:E2:09:5B:84:DF:71:4B:20:D6:31:F2:46:49:B6:70:18:B0:68:99:57:B7:55",
+        "C3:FF:F7:F0:54:06:DF:10:05:C5:B3:8E:B1:A5:E5:32:53:E2:8D:A4:9A:7F:8F:53:70:1E:28:A3:22:73:A7:44"
+      ]
+    }
+  }
+]
